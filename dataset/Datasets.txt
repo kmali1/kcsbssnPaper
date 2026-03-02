@@ -1,0 +1,4 @@
+Files are zipped in the bn floder
+Other folders are zipped
+
+All zip files need to be unzipped and the Whole Dataset folder need to move into Project directory before run the expirements
